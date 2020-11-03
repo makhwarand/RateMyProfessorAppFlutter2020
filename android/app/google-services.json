@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "71290244510",
+    "firebase_url": "https://umaogin.firebaseio.com",
+    "project_id": "umaogin",
+    "storage_bucket": "umaogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71290244510:android:96d43d02ccaa6b5cc11a8f",
+        "android_client_info": {
+          "package_name": "pro.profratings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71290244510-97bog4g25kupv7036pbg0ihcksp2p39r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYkvzqVO1zXQd9ajxa1SOVYDv-LMwwUEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71290244510-97bog4g25kupv7036pbg0ihcksp2p39r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

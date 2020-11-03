@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">71290244510-97bog4g25kupv7036pbg0ihcksp2p39r.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://umaogin.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">71290244510</string>
+    <string name="google_api_key" translatable="false">AIzaSyDYkvzqVO1zXQd9ajxa1SOVYDv-LMwwUEI</string>
+    <string name="google_app_id" translatable="false">1:71290244510:android:96d43d02ccaa6b5cc11a8f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDYkvzqVO1zXQd9ajxa1SOVYDv-LMwwUEI</string>
+    <string name="google_storage_bucket" translatable="false">umaogin.appspot.com</string>
+    <string name="project_id" translatable="false">umaogin</string>
+</resources>
